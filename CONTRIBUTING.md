@@ -1,5 +1,6 @@
 ## Contribution Guidelines
 Thank you for your contribution and your interest in our product!
+
 Please follow the following guidelines:
 
 ## Table of Contents
@@ -28,7 +29,7 @@ Please follow the following guidelines:
 - Check if the feature request was previously suggested in the ticketing system before submitting a new feature request. 
 
 ### Testing:
-The testing is required to identify defects and ensure that the software meets the expected requirements.
+The testing is required to identify defects and ensure that the software meets the expected requirements. Please:
 - Create appropriate test cases under the test folder.
 - Ensure that there are no failing tests.
 - Follow unit tests naming conventions test\[Feature being tested].
@@ -61,9 +62,11 @@ However, to facilitate this process, we provide a "Blocklist" and an "Allowlist"
   - LGPL version 2.1 and version 3
   
 ## Style Guide
-Please start the commit message with 
+Please start the commit message with:
+
 :sparkles: when adding a new feature.
-:bug: when fixing a bug
+
+:bug: when fixing a bug.
   
 ## Code of Conduct
 Please adhere to this project's code of conduct (see CODE_OF_CONDUCT.md) in all your interactions with the project.
