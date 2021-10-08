@@ -1,10 +1,22 @@
 ## Contribution Guidelines
 Thank you for your contribution and your interest in our product!
+Please follow the following guidelines:
 
-Please adhere to this project's code of conduct (see CODE_OF_CONDUCT.md) in all your interactions with the project.
+## Table of Contents
+1. [Reporting Bugs](#Reporting-Bugs)
+2. [Short Links to Important Resources](#Short-Links-to-Important-Resources)
+3. [Feature request or enhancement](#Feature-request-or-enhancement)
+4. [Testing](#testing)
+5. [Pull Request Submission Guidelines](#Pull-Request-Submission-Guidelines)
+6. [OSS component use policy](#OSS-component-use-policy)
+7. [Style Guide](#Style-Guide)
+8. [Code of conduct](#code-of-conduct)
+9. [Contributors](#Contributors)
+10. [Questions](#Questions)
 
-Please follow these guidelines:
 
+### Short Links to Important Resources
+- Ticketing system link: TBD
 
 ### Reporting Bugs
 - Check if the bug was previously reported in the ticketing system.
@@ -14,6 +26,12 @@ Please follow these guidelines:
 
 ### Feature request or enhancement
 - Check if the feature request was previously suggested in the ticketing system before submitting a new feature request. 
+
+### Testing:
+The testing is required to identify defects and ensure that the software meets the expected requirements.
+- Create appropriate test cases under the test folder.
+- Ensure that there are no failing tests.
+- Follow unit tests naming conventions test\[Feature being tested].
 
 ### Pull Request Submission Guidelines
 Please follow these steps:
@@ -41,7 +59,17 @@ However, to facilitate this process, we provide a "Blocklist" and an "Allowlist"
   - BSD 2-clause license
   - MPL 2.0
   - LGPL version 2.1 and version 3
-
   
+## Style Guide
+Please start the commit message with 
+:sparkles: when adding a new feature.
+:bug: when fixing a bug
+  
+## Code of Conduct
+Please adhere to this project's code of conduct (see CODE_OF_CONDUCT.md) in all your interactions with the project.
+
+## Contributors
+Anja Slama
+
 ## Questions?
 If you have questions, please contact us at anja.slama@ucalgary.ca
