@@ -1,6 +1,8 @@
 ## Contribution Guidelines
 Thank you for your contribution and your interest in our product!
+
 Please adhere to this project's code of conduct (see CODE_OF_CONDUCT.md) in all your interactions with the project.
+
 Please follow these guidelines:
 
 
