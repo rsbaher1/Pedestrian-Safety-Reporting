@@ -1,5 +1,6 @@
 ## Contribution Guidelines
 We welcome contributions from anyone!
+
 Thank you for your contribution and your interest in our product!
 
 Please follow the following guidelines:
