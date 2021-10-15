@@ -13,6 +13,7 @@ This web application allows citizens to report a hazard/issue on sidewalks.
 
 # Licensing
 This project is licensed under the GPL-3.0 License. See 'LICENSE' for the complete license.
+This program includes code from the Flask_Blog, used under the following license: Copyright (c) <2018> <CoreyMSchafer> 
 
 # Contributing
 We welcome contributions from anyone.
