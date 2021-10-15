@@ -1,8 +1,6 @@
 ## Contribution Guidelines
 We welcome contributions from anyone!
 
-Thank you for your contribution and your interest in our product!
-
 Please follow the following guidelines:
 
 ## Table of Contents
@@ -22,13 +20,18 @@ Please follow the following guidelines:
 - Ticketing system link: TBD
 
 ### Reporting Bugs
-- Check if the bug was previously reported in the ticketing system.
+- Check if the bug was previously reported in the ticketing system. 
+- Create a bug report for each problem.
+- Give a descriptive title to the bug (<=50 characters).
 - Give the exact steps to reproduce the bug.
 - Describe the obtained behaviour versus the expected behaviour of the system.
-- Share any relevant information related to the bug.
+- Attach a screenshot of the bug and share any relevant information related to the bug if applicable.
 
 ### Feature request or enhancement
-- Check if the feature request was previously suggested in the ticketing system before submitting a new feature request. 
+- Check if the feature request was previously suggested in the ticketing system before submitting a new feature request:
+  - If you find that the feature was already reported and still open, comment on it. 
+  - If you find that the feature is closed, and you want to report it again, open a new bug and reference the closed issue.
+  - If you don't find the feature open a new issue and give it a descriptive title (<=50 characters).
 
 ### Testing:
 The testing is required to identify defects and ensure that the software meets the expected requirements. Please:
@@ -77,4 +80,8 @@ Please adhere to this project's code of conduct (see CODE_OF_CONDUCT.md) in all 
 Anja Slama
 
 ## Questions?
-If you have questions, please contact us at anja.slama@ucalgary.ca
+If you have questions, please contact us at anja.slama@ucalgary.ca.
+Please mention the issue number in the subject line, if your question is related to a specific bug or a feature request mentioned in the ticketing system.
+
+
+### Thank you for your contribution and your interest in our product!
