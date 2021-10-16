@@ -9,7 +9,7 @@
 
 
 ## General Info
-This web application allows citizens to report a hazard/issue on sidewalks.
+This Flask web application allows citizens to report a hazard/issue on sidewalks.
 
 # Licensing
 This project is licensed under the GPL-3.0 License. See 'LICENSE' for the complete license.
