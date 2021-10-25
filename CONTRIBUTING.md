@@ -4,20 +4,20 @@ We welcome contributions from anyone!
 Please follow the following guidelines:
 
 ## Table of Contents
-1. [Reporting Bugs](#Reporting-Bugs)
-2. [Short Links to Important Resources](#Short-Links-to-Important-Resources)
+1. [Short Links to Important Resources](#Short-Links-to-Important-Resources)
+2. [Reporting Bugs](#Reporting-Bugs)
 3. [Feature request or enhancement](#Feature-request-or-enhancement)
 4. [Testing](#testing)
 5. [Pull Request Submission Guidelines](#Pull-Request-Submission-Guidelines)
-6. [OSS component use policy](#OSS-component-use-policy)
+6. [OSS Component Use Policy](#OSS-component-use-policy)
 7. [Style Guide](#Style-Guide)
 8. [Code of conduct](#code-of-conduct)
 9. [Contributors](#Contributors)
-10. [Questions](#Questions)
+10. [Questions?](#Questions?)
 
 
 ### Short Links to Important Resources
-- Ticketing system link: TBD
+- Ticketing system link: https://github.com/AnjaSlama/Pedestrian-Safety-Reporting/issues
 
 ### Reporting Bugs
 - Check if the bug was previously reported in the ticketing system. 
@@ -48,7 +48,7 @@ Please follow these steps:
 - Submit a separate pull request for each bug or feature (include the ticket number)
 - Give a meaningful title to the pull request and commit.
 
-## OSS component use policy
+## OSS Component Use Policy
 This policy is in place to help contributors to ensure proper compliance with licensing.
 
 Contributors must investigate if the license agreement of the OSS considered for use comply with this project license and the maintainers will evaluate individual submissions.
