@@ -46,17 +46,24 @@ Python 3.8+ CLI or your favorite IDE to use with Flask.
 - WINDOWS  
   `$ Python3 -m venv venv`  
   `$ venv\Scripts\activate`
+- UBUNTU (20)  
+  - Install venv: `sudo apt install python3.8-venv`  
+  - Install wheel package to build Flask-Bcrtpy: `sudo apt-get install python3-wheel`  
+  - Create new virtual env called venv: `python3 -m venv venv`  
+  - Install wheel before installing requirements.txt: `pip install wheel`  
 
 5- Install required Python packages  
 `$ pip install -r requirements.txt`
 
 6- Run the application
 
-- MAC
+- MAC  
   `$ FLASK_CONFIG=development python app.py runserver`
-- WINDOWS
-  `$ set FLASK_CONFIG=development  
-  $ python app.py runserver`
+- WINDOWS  
+  `$ set FLASK_CONFIG=development`  
+- UBUNTU (20)  
+  `$ export FLASK_CONFIG=development`  
+  `$ python app.py runserver`
 
 
 
